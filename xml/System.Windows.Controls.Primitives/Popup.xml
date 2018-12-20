@@ -561,7 +561,7 @@
           <format type="text/markdown"><![CDATA[  
   
 ## Remarks  
- You can position a popup by setting the <xref:System.Windows.Controls.Primitives.Popup.PlacementTarget%2A>, <xref:System.Windows.Controls.Primitives.Popup.PlacementRectangle%2A>, <xref:System.Windows.Controls.Primitives.Popup.Placement%2A>, <xref:System.Windows.Controls.Primitives.Popup.HorizontalOffset%2A>, and <xref:System.Windows.Controls.Primitives.Popup.VerticalOffsetProperty> properties. For more information, see [Popup Placement Behavior](~/docs/framework/wpf/controls/popup-placement-behavior.md).  
+ You can position a popup by setting the <xref:System.Windows.Controls.Primitives.Popup.PlacementTarget%2A>, <xref:System.Windows.Controls.Primitives.Popup.PlacementRectangle%2A>, <xref:System.Windows.Controls.Primitives.Popup.Placement%2A>, <xref:System.Windows.Controls.Primitives.Popup.HorizontalOffset%2A>, and <xref:System.Windows.Controls.Primitives.Popup.VerticalOffset%2A> properties. For more information, see [Popup Placement Behavior](~/docs/framework/wpf/controls/popup-placement-behavior.md).  
   
 <a name="dependencyPropertyInfo_HorizontalOffset"></a>   
 ## Dependency Property Information  
